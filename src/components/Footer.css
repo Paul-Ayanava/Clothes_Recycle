@@ -15,7 +15,7 @@
   text-align: center;
 
   margin-bottom: 24px;
-  padding: 24px;
+  padding: 10px;
   color: #fff;
 }
 
@@ -25,8 +25,8 @@
 }
 
 .footer-subscription-heading {
-  margin-bottom: 24px;
-  font-size: 24px;
+  margin-bottom: 10px;
+  font-size: 30px;
 }
 
 .footer-subscription-text {

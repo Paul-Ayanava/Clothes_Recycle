@@ -29,7 +29,7 @@
   align-items: center;
 }
 
-.fa-typo3 {
+.fa-seedling {
   margin-left: 0.5rem;
   font-size: 1.8rem;
 }
@@ -41,7 +41,7 @@
   list-style: none;
   text-align: center;
   width: 60vw;
-  justify-content: end;
+  justify-content: center;
   margin-right: 2rem;
 }
 
